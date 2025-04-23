@@ -6,7 +6,7 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Diogo A passionate Data Science student from Brazil.
+  Hi 👋, I'm Diogo
 
   - 🌱 I’m currently studying Data Science and Computer Science
 
