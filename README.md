@@ -8,7 +8,6 @@
 <p>
   Hi 👋, I'm Diogo
 
-  - 🌱 I’m currently studying Data Science and Computer Science
 
   - 🔭 I am looking for my first job opportunity.
 </p>
