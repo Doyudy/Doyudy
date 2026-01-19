@@ -1,7 +1,11 @@
 
-### Olá! Eu sou o Diogo Oliveira 👋🏼
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=+Ol%C3%A1!+Eu+sou+o+Diogo+Oliveira+%F0%9F%91%8B%F0%9F%8F%BC)](https://git.io/typing-svg)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-oliveira-374839306/)
+
+![Doyudy GitHub stats](https://github-readme-stats.vercel.app/api?username=Doyudy&show_icons=true&theme=transparent)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Doyudy&layout=pie)](https://github.com/Doyudy/github-readme-stats)
 
 ### Minhas Skills
 
