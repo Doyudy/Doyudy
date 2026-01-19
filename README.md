@@ -1,81 +1,72 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=+Ol%C3%A1!+Eu+sou+o+Diogo+Oliveira+%F0%9F%91%8B%F0%9F%8F%BC)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Ol%C3%A1!+Eu+sou+o+Diogo+Oliveira+%F0%9F%91%8B;Desenvolvedor+Front-end+em+Forma%C3%A7%C3%A3o;Apaixonado+por+Tecnologia+%F0%9F%9A%80" />
+</p>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-oliveira-374839306/)
+---
 
-![Doyudy GitHub stats](https://github-readme-stats.vercel.app/api?username=Doyudy&show_icons=true&theme=transparent)
+<p align="center">
+  <a href="https://www.linkedin.com/in/diogo-oliveira-374839306/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Doyudy&layout=pie)](https://github.com/Doyudy/github-readme-stats)
 
-### Minhas Skills
 
-<div style="display: inline_block"><br/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Node.js" 
-    title="Node.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Angular" 
-    title="Angular"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
-/>
-</div><br/>
+## 📊 Estatísticas do GitHub
 
-<br>
-<font size="5">Apaixonado por tecnologia, cursando Gestão da TI, estou a procura do meu primeiro emprego como programador e sempre me atualizando para dar o meu melhor.</font>
-<br/>
+<div align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=Doyudy&show_icons=true&theme=tokyonight"
+  />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doyudy&layout=compact&theme=tokyonight"
+  />
+</div>
+
+
+
+## 🧠 Sobre mim
+
+🎓 Estudante de **Gestão da Tecnologia da Informação**  
+💻 Desenvolvedor **Front-end em formação**  
+🚀 Buscando minha **primeira oportunidade profissional** como programador  
+
+Sou apaixonado por tecnologia e desenvolvimento web.  
+Gosto de criar projetos práticos, aprender novas tecnologias e evoluir constantemente, sempre buscando escrever código limpo e funcional.
+
+
+
+## 🚀 Tecnologias & Ferramentas
+
+<div align="center"><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40" />
+</div>
+
+---
+
+## 📌 O que você vai encontrar aqui
+
+✔️ Projetos Front-end  
+✔️ Aplicações com HTML, CSS e JavaScript  
+✔️ Estudos com React, TypeScript e Angular  
+✔️ Projetos focados em prática e aprendizado real  
+
+
+## 📫 Contato
+
+📎 LinkedIn:  
+👉 https://www.linkedin.com/in/diogo-oliveira-374839306/
+
+---
+
+⭐ *Se gostou de algum projeto, não esqueça de deixar uma estrela!*  
