@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Ol%C3%A1!+Eu+sou+o+Diogo+Oliveira+%F0%9F%91%8B;Desenvolvedor+Front-end+em+Forma%C3%A7%C3%A3o;Apaixonado+por+Tecnologia+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Ol%C3%A1!+Eu+sou+o+Diogo+Oliveira+%F0%9F%91%8B;Desenvolvedor+Fullstack+em+Forma%C3%A7%C3%A3o;Apaixonado+por+Tecnologia+%F0%9F%9A%80" />
 </p>
 
 ---
@@ -31,7 +31,7 @@
 ## 🧠 Sobre mim
 
 🎓 Estudante de **Gestão da Tecnologia da Informação**  
-💻 Desenvolvedor **Front-end em formação**  
+💻 Desenvolvedor **Fullstack em formação**  
 🚀 Buscando minha **primeira oportunidade profissional** como programador  
 
 Sou apaixonado por tecnologia e desenvolvimento web.  
@@ -56,7 +56,7 @@ Gosto de criar projetos práticos, aprender novas tecnologias e evoluir constant
 
 ## 📌 O que você vai encontrar aqui
 
-✔️ Projetos Front-end  
+✔️ Projetos Front-end e Back-end
 ✔️ Aplicações com HTML, CSS e JavaScript  
 ✔️ Estudos com React, TypeScript e Angular  
 ✔️ Projetos focados em prática e aprendizado real  
