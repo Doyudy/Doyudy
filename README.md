@@ -65,8 +65,4 @@ Gosto de criar projetos práticos, aprender novas tecnologias e evoluir constant
 ## 📫 Contato
 
 📎 LinkedIn:  
-👉 https://www.linkedin.com/in/diogo-oliveira-374839306/
-
----
-
-⭐ *Se gostou de algum projeto, não esqueça de deixar uma estrela!*  
+ https://www.linkedin.com/in/diogo-oliveira-374839306/
