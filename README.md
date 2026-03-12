@@ -13,21 +13,6 @@
 
 
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=Doyudy&show_icons=true&theme=tokyonight"
-  />
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doyudy&layout=compact&theme=tokyonight"
-  />
-</div>
-
-
-
 ## 🧠 Sobre mim
 
 🎓 Estudante de **Gestão da Tecnologia da Informação**  
